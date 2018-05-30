@@ -1,0 +1,14 @@
+{
+    "description": "and morphometry",
+    "exclusion_criteria": [
+        "doesn't have MRI"
+    ],
+    "inclusion_criteria": [
+        "has MRI"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Nine-hole peg test"
+    ],
+    "unmapped_pmids": []
+}
